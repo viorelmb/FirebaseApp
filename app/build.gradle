@@ -31,5 +31,3 @@ dependencies {
     implementation 'com.google.firebase:firebase-iid:17.0.4'
 
 }
-
-apply plugin: 'com.google.gms.google-services'
